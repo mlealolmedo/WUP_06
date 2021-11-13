@@ -74,13 +74,13 @@ The data above shows that the black group has equal percentage of people in favo
 
 
 ## Now with less data
-
 ```{r}
 table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
 
+The tables show us that what was mentioned in the previous graph, that the black group had almost an equal percentage for in favor and oppose (49.55% vs. 50.45%). It also shows that the white group and other group, there are almost identical amount percentage-wise of people who favor capital punishment (68.23% vs. 68.75%)as well as the oppose which was (31.77% vs. 31.25%).
 
 ## Inferential Results
 
