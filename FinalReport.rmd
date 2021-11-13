@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+According to the information above, The white people favor capital punishment and more black people oppose it. So both white and the other races in the information above seem to favor capital punishment than to oppose it.
 
 ### Numerical Descriptive Results
 
