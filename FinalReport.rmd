@@ -45,7 +45,7 @@ If not, then whose view differs from whom??
 
 
 
-## Now with The Most data (fewer variables gives more data points)
+## Now with The More data (less variables)
 
 ```{r}
 dd2 <- mydata %>% group_by(race,cappun) %>% summarize(count=n()) %>% mutate(prcnt=count/sum(count))
