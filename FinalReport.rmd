@@ -173,3 +173,5 @@ The fisher test shows us that the black and the other group are different. It al
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The fisher test shows us that the black and the other group are different. It also show us that the white and black group are different. It doesn't show us any more differences between the other and the white group.
