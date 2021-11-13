@@ -64,6 +64,8 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 
 
 
+The data above shows that the black group has equal percentage of people in favor and opposed to capital punishment. It also shows that the white and the other races still favor the capital punishment, at almost an equal percentage.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
