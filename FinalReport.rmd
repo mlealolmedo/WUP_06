@@ -172,3 +172,5 @@ Because we used more data, The fisher XY test is able to show us that the differ
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Because we used more data, The fisher XY test is able to show us that the different test groups are different from each other. The white and black are different, as well as the white and other races. And the black and other races are different as well.
