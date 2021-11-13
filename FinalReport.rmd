@@ -79,6 +79,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+The information shows that 68% of the white group, 46% of the black group and 55% in the other group are in favor of capital punishment.And that 44% of the other group, 54% of the black group,and 32% of the white group all oppose to capital punishment.
 
 ## Inferential Results
 
